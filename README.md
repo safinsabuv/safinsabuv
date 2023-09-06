@@ -1,9 +1,9 @@
 <h1 align="center">Hello , I'm Safin Sabu</h1>
 <h3 align="center">Student pursuing CS degree</h3>
 
-- 🌱 I’m currently learning **Full stack web development**
+- 🌱 Currently learning **Full stack web development**
 
-- 📫 How to reach me **safinsabu@gmail.com**
+- 📫 Reach me via **safinsabu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
