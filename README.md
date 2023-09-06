@@ -1,5 +1,5 @@
 <h1 align="center">Hello , I'm Safin Sabu</h1>
-<h3 align="center">Student pursuing CS degree</h3>
+<h3 align="center">A Student Pursuing CS Degree</h3>
 
 - 🌱 Currently learning **Full stack web development**
 
